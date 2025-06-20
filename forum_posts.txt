@@ -1,0 +1,36 @@
+07:52:48 Oct 28th 22 - Mr. Bombastus:
+Sto prendendo le misure con People of Bombastus per mettere una 90k più vicina possibile al bosco e alla tua cittadina. 
+
+
+
+Produzione dopo qualche ora:
+
+Total:	+32,209	+3,684	+14,808	+0	1,256	
+Army Upkeep:	-55
+Building Upkeep:	-621
+Total Income:	+31,533
+
+
+Report -  
+11:43:09 Oct 28th 22 - Lord Koala Machete:
+
+Name	Tax	Gold	Food	Stone	Tree	Land
+Orosei	
+
+0	
+
+1
+Norbello	16,316	19,822	18,441	16,009	14,905	3,254
+Total:	+36,138	+18,441	+16,009	+14,905	3,255	
+Army Upkeep:	-72
+Building Upkeep:	-1,720
+Total Income:	+34,346
+
+-  
+21:31:11 Oct 28th 22 - Lord Koala Machete:
+Total:	+75,518	+36,853	+30,722	+32,590
+Army Upkeep:	-72
+Building Upkeep:	-6,307
+Total Income:	+69,139
+
+
